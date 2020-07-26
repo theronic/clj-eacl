@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/js-eacl-example.iml" filepath="$PROJECT_DIR$/.idea/js-eacl-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/clj-eacl.iml" filepath="$PROJECT_DIR$/.idea/clj-eacl.iml" />
     </modules>
   </component>
 </project>
